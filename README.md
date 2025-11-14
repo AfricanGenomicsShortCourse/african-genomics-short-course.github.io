@@ -1,1 +1,1 @@
-# african-genomics-short-course.github.io
+# The African Genomics Short Course GitHub Page
