@@ -1,10 +1,11 @@
 ---
-title: "About"
-layout: pages
+title: "African Genomics Short Course"
+description: "Bringing cutting-edge technologies in genomics to African Scientists"
+layout: default
 nav_order: 1
 ---
 
-# :page_facing_up: Summary
+# Summary
 
 In Africa, growing investment in infrastructure, data, and networks has created momentum 
 to harness genomics to address local and global health challenges, biodiversity, and development. 
@@ -26,7 +27,7 @@ Through practical sessions, expert-led seminars, peer exchange, and project-base
 the course will also provide a platform to strengthen networks, nurture innovation, and support 
 participants to become catalysts for sustainable capacity development in their home institutions and countries.
 
-## :dart: Target audience
+## Target audience
 This course is aimed at researchers and clinical professionals based in Africa who are actively engaged in genomics, 
 bioinformatics, or closely related fields. It is particularly suited for **early to mid-career scientists**, including 
 **advanced PhD students**, **postdoctoral researchers**, and **healthcare professionals** (e.g. clinicians, genetic counsellors, 
@@ -36,7 +37,7 @@ and training capacity within their institutions or regions.
 
 ---
 
-## :memo: Learning outcomes
+## Learning outcomes
 **By the end of the course, participants will be able to:**
 - Critically evaluate foundational concepts in genomics and bioinformatics in-relation to African research priorities.
 - Apply advanced practical skills to generate, analyse, and interpret genomic data using accessible tools and workflows.
@@ -46,7 +47,7 @@ and training capacity within their institutions or regions.
 
 ---
 
-## :handshake: Organizers
+## Organizers
 - [Ambroise Wonkam](https://profiles.hopkinsmedicine.org/provider/ambroise-wonkam/2702485), Johns Hopkins University, USA
 - [Vicky Nembaware](https://www.researchgate.net/profile/Victoria-Nembaware-2), University of Cape Town, South Africa
 - [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/), Wellcome Connecting Science, UK
@@ -57,6 +58,6 @@ and training capacity within their institutions or regions.
 - [Scarlett Storr](https://www.wellcomeconnectingscience.org/person/storr-scarlett/), Wellcome Connecting Science, UK
 - Kita Magangana, University of Cape Town, South Africa
 
-### :information_source: For more Information
+### For more Information
 Visit [African Genomics Short Course](https://coursesandconferences.wellcomeconnectingscience.org/event/african-genomics-short-course-20251130/) course page at Wellcome Connecting Science.
 
