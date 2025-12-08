@@ -1,16 +1,15 @@
 ---
-title: Tutorials
+title: Courses
 layout: pages
 nav_order: 5
 has_children: true
 has_toc: true
 ---
 
-<p align="center"><img src="../assets/img/genemap-tutorials.svg" height="50%" width="50%"></p>
+# AGSC Courses
 
----
+1. [ASGC_2025](/docs/courses/agsc2025/index.md)
 
-# Tutorials 
 ---
 
 _under development_

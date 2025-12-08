@@ -1,7 +1,7 @@
 ---
-title: "African Genomics Short Course"
+title: "Mission of the AGSCourse"
 description: "Bringing cutting-edge technologies in genomics to African Scientists"
-layout: default
+layout: pages
 nav_order: 1
 ---
 

@@ -5,6 +5,8 @@ layout: pages
 
 # Contact
 
-email: wonkamlabhopkins@gmail.com
+AfSHG Secretariat: email: vnembaware@gmail.com
+
+AfSHG Membership: membership@afshg.org
 
 ***Under development***
