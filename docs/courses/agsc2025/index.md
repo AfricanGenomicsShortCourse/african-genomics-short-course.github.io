@@ -51,7 +51,7 @@ committed to advancing genomics in Africa.
 
 ## All Keynote Speakers
 
-![all seminars](assets/img/all-seminars.svg)
+![all seminars](/assets/img/all-seminars.svg)
 
 ---
 
