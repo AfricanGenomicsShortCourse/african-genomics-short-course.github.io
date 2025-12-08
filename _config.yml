@@ -4,3 +4,47 @@ plugins:
 
 title: African Genomics Short Course
 description: Bringing cutting-edge technologies in genomics to African Scientists
+
+show_excerpts: false # set to true to show excerpts on the homepage
+show_drafts: true
+show_downloads: false
+google_analytics: true
+
+github:
+  owner_url: https://github.com/AGSCourse
+  owner_name: AfSHG
+  repository_url: https://github.com/AGSCourse/agscourse.github.io
+  repository_name: agscourse.github.io
+  is_project_page: true
+
+pages:
+  baseurl: https://agscourse.github.io
+  #home: /docs/project.html
+  about: /docs/about.html
+  contact: /docs/contact.html
+
+# point to my logo
+logourl: assets/img/agsc.png
+logoalt: agsclogo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Introduction
+  internal: true
+  url: ./
+- text: Add a new page
+  internal: true
+  url: add-a-new-page
+- text: Configure the Guide
+  internal: true
+  url: configure-the-guide
+- text: GitHub Setup
+  internal: true
+  url: github
+- text: Create a Glossary
+  glossary: true
+- text: Edit this Repo
+  internal: false
+  url: https://agscourse.github.io
+
