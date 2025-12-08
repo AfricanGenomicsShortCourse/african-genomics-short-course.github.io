@@ -8,7 +8,7 @@ has_toc: true
 
 # AGSC Courses
 
-1. [ASGC_2025](/docs/courses/agsc2025/index.md)
+1. [ASGC_2025](/docs/courses/agsc2025/index.html)
 
 ---
 

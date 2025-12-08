@@ -12,7 +12,12 @@ has_toc: true
 
 [African Genomics Short Course Home Page at Wellcome Connecting Science](https://coursesandconferences.wellcomeconnectingscience.org/event/african-genomics-short-course-20251130/)
 
-Add one one-line description of the course (the same needs to be added on the right side of the page in the description)
+This course is a flagship collaboration between the African Society of Human Genetics (AfSHG), 
+the University of Cape Town (UCT), faculty members from African universities, Wellcome Connecting Science, 
+The Jackson Laboratory, John Hopkins University and a growing network of regional and global partners 
+committed to advancing genomics in Africa.
+
+---
 
 ## Modules
 **[Module 1](module_1):** Orientation
@@ -29,6 +34,7 @@ Add one one-line description of the course (the same needs to be added on the ri
 
 **[Module 7](module_7):** Translation and Implementation - Clinical and Public Health
 
+---
 
 ## Course Runs
 
@@ -40,6 +46,14 @@ Add one one-line description of the course (the same needs to be added on the ri
 ## Instructors
 - ...
 - ...
+
+---
+
+## All Keynote Speakers
+
+![all seminars](assets/img/all-seminars.svg)
+
+---
 
 ## Acknowledgements
 - Sam Adadey
